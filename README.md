@@ -13,6 +13,7 @@
 - [6. Hypotheses](#6-hypotheses)
 - [7. Visualizations](#7-visualizations)
 - [Conclusion](#conclusion)
+- [Presentation](#presentation)
 
 ---
 
